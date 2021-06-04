@@ -1,0 +1,18 @@
+header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+body div h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body div p1{
+    font-family: Cambria, Cochin, Georgia, Times;
+    font-size: 18px;
+}
+body div {
+    width: 500px;
+}
+body div h3{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+}
